@@ -1,0 +1,15 @@
+.titulo{
+text-align: center;
+color: #32CD32;
+}
+.rodape{
+	background: #708090;
+}
+.fundo{
+	background: #DCDCDC;
+	border: 1px solid gray;
+}
+.paragrafo{
+	 font-size: 20px;
+    text-align: justify;
+}
